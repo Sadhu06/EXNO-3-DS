@@ -31,7 +31,26 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053159.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053229.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053245.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053302.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053319.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053337.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053352.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053411.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053428.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053450.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053515.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053537.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053605.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053650.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053708.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053722.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053736.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053749.png"
+       "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-19 053802.png"
+       
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
